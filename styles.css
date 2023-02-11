@@ -1,0 +1,28 @@
+.flexbox-container {
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    /* align-content: flex-center; */
+
+}
+.flexbox-item {
+    width: 200px;
+    margin: 10px;
+    border: 10px solid blue;
+    background-color: red;
+    color: white;
+    text-align-last: center;
+    /* text-align:; */
+}
+.sample-rounded-box {
+border-radius: 10px;
+}
+div.only-bottom-rounded {
+
+}
+div.circle {
+
+}
