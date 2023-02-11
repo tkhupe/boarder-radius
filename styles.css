@@ -5,6 +5,7 @@
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    /* box-shadow: green; */
     /* align-content: flex-center; */
 
 }
@@ -15,6 +16,7 @@
     background-color: red;
     color: white;
     text-align-last: center;
+    box-shadow: 10px 10px green;
     /* text-align:; */
 }
 .sample-rounded-box {
@@ -26,5 +28,6 @@ border-radius: 0 0 10px 10px;
 div.circle {
 width: 100px;
 height: 100px;
-border-radius: 50px;      
+border-radius: 50px;
+line-height: 100px;      
 }
